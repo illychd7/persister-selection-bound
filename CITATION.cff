@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper and the selbound package."
+title: "persister-selection-bound: analysis code for response-adjusted selection bounds in single-cell perturbation data"
+version: 2.0.0
+date-released: 2026-11-03
+license: MIT
+repository-code: "https://github.com/illychd7/persister-selection-bound"
+authors:
+  - family-names: Alvarez
+    given-names: Illych
+    affiliation: "Escuela Superior Politécnica del Litoral (ESPOL)"
+    email: ialvarez@espol.edu.ec
+references:
+  - type: software
+    title: "selbound: response-adjusted selection bounds for single-cell perturbation data"
+    version: 0.1.0
+    doi: 10.5281/zenodo.23934920
+    authors:
+      - family-names: Alvarez
+        given-names: Illych

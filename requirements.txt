@@ -1,0 +1,15 @@
+# Versions used for the published results (Python 3.13)
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+scikit-learn==1.9.1
+matplotlib==3.11.2
+h5py==3.16.0
+pot==0.9.7.post1          # UOT comparator
+meld==1.0.2               # MELD comparator
+pertpy==1.4.0             # Milo comparator
+pydeseq2==0.5.4
+scanpy==1.12.5
+anndata==0.13.4
+pillow==12.3.0            # digitize_fig1b.py only
+selbound @ git+https://github.com/illychd7/selbound   # 0.1.0, doi:10.5281/zenodo.23934920; power_runtime.py

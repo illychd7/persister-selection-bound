@@ -1,0 +1,9 @@
+scenario,k,milo,CI95,ours
+A2 + clone-intrinsic 30%,10,20/20,83.2-100.0%,20/20
+A2 + clone-intrinsic 30%,30,20/20,83.2-100.0%,20/20
+A2 + clone-intrinsic 30%,50,18/20,68.3-98.8%,20/20
+A2 + clone-intrinsic 30%,100,11/20,31.5-76.9%,20/20
+N2 selection + common,10,0/20,0.0-16.8%,0/20
+N2 selection + common,30,0/20,0.0-16.8%,0/20
+N2 selection + common,50,0/20,0.0-16.8%,0/20
+N2 selection + common,100,0/20,0.0-16.8%,0/20
